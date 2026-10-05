@@ -1,0 +1,5 @@
+Full Name: Haneen Alzayat
+GitHub Username: haneennabil065-debug
+Date Started: October 5, 2026
+Auth Method: PAT
+One Git habit I want to improve: I want to inspect my changes before committing.
