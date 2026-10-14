@@ -1,0 +1,13 @@
+Student Name: Haneen Alzayat
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+The ignored files are not tracked by Git. Git status does not show ignored files as changes.
+
+Why committing secrets is dangerous:
+Committing secrets can expose passwords, API keys, and private information to other people.
