@@ -1,0 +1,13 @@
+Student Name: Haneen Alzayat
+
+What changed:
+I added a README section describing four habits for using Git carefully. These habits cover checking status, reviewing changes, writing clear commit messages, and syncing with the remote repository.
+
+How I verified the change:
+I checked the README to confirm the new heading and four habits were present. I reviewed the changes to ensure the existing identity information was preserved.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest adding examples that demonstrate these habits in practice. They might also recommend keeping the README concise and easy to scan.
+
+Professional response I would give:
+Thank you for the suggestions. I will consider adding practical examples where they improve clarity while keeping the README concise.
