@@ -1,0 +1,7 @@
+Student Name: Haneen Alzayat
+
+What I check before committing:
+Before committing, I run git status to check which files are modified, staged, or untracked. I use git diff to review the changes in tracked files. I make sure that the changes are correct and related to my task. I check that I have staged only the file I intend to commit.
+
+What I am committing now and why:
+I am committing practice/status_notes.txt because it documents my inspect-before-commit habit. This separate commit keeps my work organized and easy to review.
