@@ -1,0 +1,22 @@
+Student Name: Haneen Alzayat
+
+Weak message 1: updates
+Improved message 1:
+update README with project setup instructions
+Why this is better:
+It explains what changed and identifies the affected file. This makes the commit easier to understand later.
+
+Weak message 2: final final
+Improved message 2:
+fix errors in the final project submission
+Why this is better:
+It describes the purpose of the change clearly. It avoids an unclear and repetitive message.
+
+Weak message 3: stuff
+Improved message 3:
+add input validation to the practice program
+Why this is better:
+It identifies the change and the affected feature. This gives other developers useful information.
+
+My personal commit message rule:
+I will write clear and specific commit messages that explain each change. I will use action verbs such as add, fix, update, and remove. I will avoid vague messages such as updates, stuff, and final final.
