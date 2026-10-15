@@ -1,0 +1,18 @@
+Student Name: Haneen Alzayat
+GitHub Username: haneennabil065-debug
+Repository: SE103-Week6
+Repository URL: https://github.com/haneennabil065-debug/SE103-Week6
+
+Git habits I demonstrated this week:
+I checked my repository status before committing changes.
+I used clear commit messages to describe my work.
+I organized files into the required folders.
+I used Git branches to manage changes safely.
+I reviewed tracked files before pushing to GitHub.
+
+One mistake-prevention habit I will keep:
+I will run git status before every commit and review the files I am about to commit.
+I will verify that required files are present and sensitive or temporary files are excluded before pushing.
+
+All required files are on main: Yes
+
